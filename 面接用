@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+  <meta charset="utf-8">
+  <title>面接用</title>
+  <meta name="descripition" content="私のプロフィールです">
+  <ul>
+    <li>
+      <a href="https://www.instagram.com/___miogram___25/" target="_blank">
+        <img src="Instagram.png" width="20" height="20" >
+
+      </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/mio_nanase25" target="_blank">
+          <img src="Twitter.png" width="20" height="20" ></img>
+
+        </a>
+
+    </li>
+
+  </ul>
+</head>
+<body>
+  <header>
+    <img src="IMG_3329.jpg" width="120"  　height="120">
+    <h1>内野楓</h1>
+    <p>プログラミング勉強中です</p> 
+  </header>
+ <section>
+   <h1>プロフィール</h1>
+    <img src="IMG_4293.jpeg" width="120" height="120">
+    <section>
+
+ </section> 
+
+
+   <h1>1997年10月25日（23）</h1>
+   <p>蠍座、Ｂ型、好きな食べ物はトマトです</p>
+ </section>
+
+ <section>
+
+   <h1>経歴</h1>
+   <p>高校を卒業後株式会社エントリーサービスに入社し、福岡タワーのエレベーターガールに従事しました。その後株式会社キャリアワークに入社して営業事務に従事していました。その後ホステスに転職しました。</p>
+ </section>
+
+ <section>
+
+   <h1>志望理由</h1>
+   <p>私はまだ未経験ですが御社の社員さんにお声かけて頂き、お時間を頂きました。まだ未熟者で簡単なものしか作り上げることができませんが、御社のブロックチェーンサービス開発に関する記事を読んで、私も金融のしくみも学びたいと感じご応募させて頂きました。</p>
+ </section>
+
+<footer>
+  <p>以上です</p>
+</footer>
+
+</body>
+ </html> 
+    
